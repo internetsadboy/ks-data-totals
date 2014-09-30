@@ -2,11 +2,11 @@
 
 Straightforward bot that crawls Kickstarter and returns the following data points
 
-  • Total dollars
-  • Successful projects
-  • Total backers
-  • Repeat backers
-  • Total pledges
+  * Total dollars<br>
+  * Successful projects<br>
+  * Total backers<br>
+  * Repeat backers<br>
+  * Total pledges<br>
 
 ### Usage
 
@@ -34,7 +34,7 @@ Output
 ```
 
 ### Installation
-```bash
+```
 $ npm install ks-data-totals
 ```
 

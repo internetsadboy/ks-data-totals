@@ -1,0 +1,27 @@
+{
+  "name": "ks-data-totals",
+  "version": "0.0.1",
+  "description": "Kickstarter data points: total dollars, successful projects, total backers, repeat backers, and total pledges.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghostsnstuff/ks-data-totals.git"
+  },
+  "keywords": [
+    "kickstarter",
+    "data",
+    "stats"
+  ],
+  "author": "onceuponatime",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghostsnstuff/ks-data-totals/issues"
+  },
+  "homepage": "https://github.com/ghostsnstuff/ks-data-totals"
+}
